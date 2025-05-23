@@ -214,3 +214,12 @@ order by
 	signedUP_year
 	;
 ```
+
+Presentation:
+
+![Alt text](churn_presentation\Slide1.PNG)
+![Alt text](churn_presentation\Slide2.PNG)
+![Alt text](churn_presentation\Slide3.PNG)
+![Alt text](churn_presentation\Slide4.PNG)
+![Alt text](churn_presentation\Slide5.PNG)
+![Alt text](churn_presentation\Slide6.PNG)
